@@ -16,7 +16,7 @@ Petunjuk Teknis:
 Output yang ditampilkan kepada user sebagai berikut :
 => berikut adalah inputnya
 =============================
-  SELAMAT DATANG DI WARUNG (Nama warung masing - masing)
+  SELAMAT DATANG DI WARUNG (fira's stall)
 =============================
 Menu Hari Ini:
 [A] Air Mineral   - Rp 3.000
